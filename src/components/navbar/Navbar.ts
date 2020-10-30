@@ -24,8 +24,8 @@ export class Navbar extends Component {
         const root = this.app.k("div", {attrs: [cssClass("flex flex-row h-16 w-screen")]});
         const githubLink = this.app.k("a", {
                 attrs: [
-                    cssClass("my-auto mr-4"),
-                    new Attribute("href", "https://github.com/kloudsoftware/eisen"),
+                    cssClass("my-auto ml-auto mr-4"),
+                    new Attribute("href", "https://github.com/kloudsoftware/ds-analyzer"),
                     new Attribute("target", "_blank"),
                 ]
             },
@@ -34,8 +34,7 @@ export class Navbar extends Component {
             ]);
 
         const navContent = [
-            this.app.k("p", {value: "Logo", attrs: [cssClass("my-auto ml-4")]}),
-            this.app.k("p", {value: "Docs", attrs: [cssClass("my-auto ml-auto mr-4 cursor-pointer")]}),
+            this.app.k("p", {value: "DS-Analyzer by ALARM", attrs: [cssClass("my-auto ml-4")]}),
             githubLink
         ];
 
