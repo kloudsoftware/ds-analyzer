@@ -1,0 +1,6 @@
+  {
+	"subdomains": {
+    		"prod": "eisen.kloud.software",
+    		"dev": "eisen.kloud.software"
+ 	 }
+}
