@@ -1,6 +1,6 @@
   {
 	"subdomains": {
-    		"prod": "eisen.kloud.software",
-    		"dev": "eisen.kloud.software"
+    		"prod": "ds-analyzer.kloud.software",
+    		"dev": "ds-analyzer.kloud.software"
  	 }
 }
