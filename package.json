@@ -13,7 +13,7 @@
   "dependencies": {
     "@kloudsoftware/eisen": "^2.2.2",
     "@types/feather-icons": "^4.7.0",
-    "apexcharts": "^3.22.0",
+    "apexcharts": "^3.24.0",
     "feather-icons": "^4.28.0",
     "moment": "^2.29.1",
     "moment-timezone": "^0.5.31",
