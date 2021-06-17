@@ -17,7 +17,7 @@
     "feather-icons": "^4.28.0",
     "moment": "^2.29.1",
     "moment-timezone": "^0.5.31",
-    "postcss": "^7.0.18",
+    "postcss": "^7.0.36",
     "tailwindcss": "^1.1.2"
   },
   "devDependencies": {
