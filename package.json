@@ -15,7 +15,7 @@
     "@types/feather-icons": "^4.7.0",
     "apexcharts": "^3.22.0",
     "feather-icons": "^4.28.0",
-    "moment": "^2.29.1",
+    "moment": "^2.29.4",
     "moment-timezone": "^0.5.31",
     "postcss": "^7.0.18",
     "tailwindcss": "^1.1.2"
